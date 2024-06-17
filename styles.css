@@ -3,3 +3,7 @@ html {
     background-color:rgb(36, 37, 44);
     color: whitesmoke
 }
+
+.heading {
+    font-family: Arial, Helvetica, sans-serif;
+}
